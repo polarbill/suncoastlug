@@ -2,13 +2,15 @@
 require_once('template.php');
 page_header('SLUG Lists');
 
-echo <<<END
+#echo <<<END
+?>
 <div id="content3">
 
 The SLUG mailing lists have been created as a service to, and in support
 of, members of the Suncoast Linux Users Group. <FONT COLOR="#FF0000">
 Note: no one is automatically subscribed to these lists, unless you
 specifically request this on your New Member Survey!</FONT>
+
 <!-- list enumeration -->
 <p>
 The following lists are available to the SLUG membership at large:
@@ -16,8 +18,6 @@ The following lists are available to the SLUG membership at large:
 <li><a href="#slug-announce">SLUG Announce</a><br>for group announcements.
 <li><a href="#slug">SLUG List</a><br>for normal technical assistance and Linux/computer-related topics.
 <li><a href="#slug-politics">SLUG Politics</a><br>for topics too hot for the SLUG list.
-<li><a href="#slug-digest">SLUG Digest</a><br>for a digest of the SLUG list.
-<li><a href="#slug-posters">SLUG Posters</a><br>for posting messages at work.
 </ul>
 <p>
 The <i>rules</i> for the lists are <a href="listrules.php">here</a>.
@@ -26,10 +26,19 @@ Instructions for posting, subscribing and unsubscribing are <a href="#instructio
 <p>
 To find out if you're already subscribed or unsubscribed, go <a href="#subunsub">here</a>.
 <p>
-To search the message archives for the SLUG and other lists, go <a href="http://slug.archives.nks.net/List/">here</a>.
+To search the message archives for the SLUG and other lists:
+<ul>
+<li> <a href="http://www.suncoastlug.org/pipermail/slug-announce">SLUG Announce</a></li>
+<li> <a href="http://www.suncoastlug.org/pipermail/slug">SLUG</a></li>
+<li> <a href="http://www.suncoastlug.org/pipermail/slug-announce">SLUG Politics</a></li>
+</ul>
+
 (Sorry, this only goes from 10 April 2001 to the present.)
+</p>
+
 <p>
 For problems you can't solve after reading over this page, go <a href="#problems">here</a>.
+</p>
 
 <!-- slug-announce -->
 
@@ -72,37 +81,6 @@ To <b>subscribe</b>, <b>unsubscribe</b> or <b>post</b>, follow the
 <a href="#instructions">instructions</a>.
 <p>
 
-<!-- slug digest -->
-
-<h3><a name="slug-digest">The SLUG Digest List</a></h3>
-<p>
-This is a digest of the SLUG List, generated every day or so (depending
-on traffic). If you don't want to wade through individual messages on
-the SLUG list, but would like to see continuing discussion, this list
-is for you.
-<p>
-Note: The SLUG Digest list does not allow posting. And owing to the
-problems attendant when people try to reply to posts from digests, we
-request that you don't snip parts of the SLUG Digest and reply to them
-on the SLUG List.
-<p>
-To <b>subscribe</b> or <b>unsubscribe</b>, follow the
-<a href="#instructions">instructions</a>.
-<p>
-
-<!-- slug-posters -->
-
-<h3><a name="slug-posters">SLUG Posters</a></h3>
-<p>
-This list is for second (or third) addresses from which you'd like to post
-mail, aside from your main address. This list does not <i>receive</i>
-mail-- that's for your main SLUG List address. But it does allow you to
-<i>post</i> from an additional address (say, at work).
-<p>
-To <b>subscribe</b> or <b>unsubscribe</b> or <b>post</b> follow the
-<a href="#instructions">instructions</a>.
-<p>
-
 <a name="instructions"></a>
 
 <!-- unsub instructions -->
@@ -110,20 +88,18 @@ To <b>subscribe</b> or <b>unsubscribe</b> or <b>post</b> follow the
 <h3><a name="subscribe">How To Subscribe</a></h3>
 Send an email to:<BR>
 <P>
-<A HREF="mailto:majordomo@nks.net">majordomo@nks.net</A><BR>
+&lt;name-of-list&gt;-join@suncoastlug.org<BR>
 <P>
-In the <STRONG>body</STRONG> of the email, give the following command:<BR>
-<P>
-subscribe &lt;name-of-list&gt; &lt;your.email.address&gt;<BR>
-<P>
-where &lt;name-of-list&gt; can be <b>slug</b>, <b>slug-politics</b>,
-<b>slug-announce</b>, <b>slug-digest</b> or <b>slug-posters</b>.
-<p>
-Or execute this command:<br>
-<pre>
-echo subscribe &lt;name-of-list&gt; &lt; \
-your.email.address&gt; | mail majordomo@nks.net
-</pre>
+where &lt;name-of-list&gt; can be <b>slug</b>, <b>slug-politics</b>, or <b>slug-announce</b>.
+
+Or do it via the web interface:
+
+<ul>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug">slug</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-announce">slug-announce</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-politics">slug-politics</a></li>
+</ul>
+
 <p>
 
 <!-- unsubscribe instructions -->
@@ -131,17 +107,18 @@ your.email.address&gt; | mail majordomo@nks.net
 <a name="unsub"><h3>How To Unsubscribe</h3></a>
 Send an email to:<BR>
 <P>
-<A HREF="mailto:majordomo@nks.net">majordomo@nks.net</A><BR>
+&lt;name-of-list&gt;-leave@suncoastlug.org<BR>
 <P>
-In the <STRONG>body</STRONG> of the email, give the following command:<BR>
-<P>
-unsubscribe &lt;name-of-list&gt; &lt;your.email.address&gt;<BR>
-<P>
-Or execute this command:<br>
-<pre>
-echo unsubscribe &lt;name-of-list&gt; &lt; \
-your.email.address&gt; | mail majordomo@nks.net
-</pre>
+where &lt;name-of-list&gt; can be <b>slug</b>, <b>slug-politics</b>, or <b>slug-announce</b>.
+
+Or do it via the web interface:
+
+<ul>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug">slug</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-announce">slug-announce</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-politics">slug-politics</a></li>
+</ul>
+
 <p>
 <font color="RED"><strong>Note: You must subscribe or unsubscribe from the address in
 question, not some other address. Otherwise, you'll need to contact the
@@ -153,20 +130,21 @@ question, not some other address. Otherwise, you'll need to contact the
 
 <a name="posting"><h3>How To Post Something</h3></a>
 <p>
-Send an email to <b>&lt;name-of-list&gt;@nks.net</b>.
+Send an email to <b>&lt;name-of-list&gt;@suncoastlug.org</b>.
 <p>
 
 <!-- subscribing/unsubscribing -->
 
 <a name="subunsub"><h3>Am I already subscribed/unsubscribed?</h3></a>
 To find out if you're already subscribed, or have been unsubscribed for some
-reason, send a message to: <b>majordomo@nks.net</b>. In the <b>body</b> of
-the message, say:<br>
-<pre>
-which &lt;your.email.address&gt;<br>
-</pre>
-Majordomo will respond back with a rundown of the lists to which you're
-subscribed.
+reason, use the web interface:
+
+<ul>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug">slug</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-announce">slug-announce</a></li>
+	<li><a href="http://suncoastlug.org/cgi-bin/mailman/listinfo/slug-politics">slug-politics</a></li>
+</ul>
+
 <p>
 
 <!-- problems -->
@@ -177,6 +155,6 @@ maintainer at <A HREF="mailto:listadmin@suncoastlug.org">listadmin@suncoastlug.o
 
 </div>
 
-END;
+<?php
 page_footer();
 ?>
