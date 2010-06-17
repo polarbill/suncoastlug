@@ -1,0 +1,204 @@
+html, body {
+  font-family:arial,helvetica,sans-serif;
+  font-size:12px;
+  color:#000; background:#eee;
+  margin:0; padding:0;
+}
+a:link, a:visited, a:active {
+  font-family:sans-serif;
+  font-size:12px;
+  font-weight:bold;
+  color:#082064; 
+}
+a:hover {
+	font-family:sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#333333;
+	text-decoration: none;
+}
+p {
+  font-family:arial,helvetica,sans-serif;
+  font-size:12px;
+  color:#000; 
+  margin:2px; padding:0;
+}
+ul {
+  font-family:arial,helvetica,sans-serif;
+  font-size:10px;
+  color:#000; 
+  margin:0; padding:.5em 1.5em;
+}
+li {
+	font-family:arial,helvetica,sans-serif;
+	font-size:12px;
+	color:#000;
+	margin:.25em 0 .25em .5em;
+	padding:0;
+}
+
+h1 {
+  font-family:arial,helvetica,sans-serif;
+  font-size:18px;
+  color:#fff; 
+  font-weight:normal;
+  margin:2px; padding:0;
+}
+h2 {
+  font-family:arial,helvetica,sans-serif;
+  font-size:12px;
+  color:#000; 
+  font-weight:bold;
+  margin:2px; padding:0;
+}
+h3 {
+  font-family:arial,helvetica,sans-serif;
+  font-size:12px;
+  color:#fff; 
+  font-weight:bold;
+  margin:2px; padding:0;
+}
+pre {
+  font-family:monospace;
+  font-size:12px;
+  color:#000; 
+}
+.topContent, .leftContent, .centerContent, .rightContent  {
+  font-family:arial,sans-serif;
+  font-size:12px;
+  color:#000; 
+}
+.subHeadLite {
+	font-family:arial, sans-serif;
+	font-size:11px;
+	font-style:normal;
+	color:#FFFFFF;
+	margin-left:4px;
+	font-weight: bold;
+}
+.subHeadDark {
+  font-family:arial,sans-serif;
+  font-size:10px; 
+  font-style:normal;
+  color:#666; 
+  margin-left:4px;
+}
+#topRow {
+  margin:0; 
+  padding:0;
+  
+}
+#leftColumn {
+  position:absolute;
+  left:0; top:auto;
+  width:25%; height:auto;
+  margin:0; padding:2 0 0; 
+}
+
+#centerColumn {
+  position:absolute;
+  left:25%; top:auto;
+  width:74%; height:auto;
+  margin:0; padding:2 0 0; 
+}
+.topContent {
+	background:#transparent;
+	margin:3px 3px 0px;
+	padding:0px;
+	width: 99%;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#666;
+	border-right-color:#666;
+	border-bottom-color:#666;
+	border-left-color:#666;
+}
+.leftContent {
+	color:#000;
+	background:#959ea4 url(images/leftcol_back.gif) no-repeat right top;
+	margin:3px 3px 4px;
+	padding:6px 1px 6px 2px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#666;
+	border-right-color:#666;
+	border-bottom-color:#666;
+	border-left-color:#666;
+}
+.centerContent {
+	color:#000;
+	background:#ccc;
+	margin:3px 3 3px 0;
+	padding:6px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#666;
+	border-right-color:#666;
+	border-bottom-color:#666;
+	border-left-color:#666;
+}
+
+/*--------------------header---------------------*/
+.headerleft {
+	background-image: url(images/header_left_anim.gif);
+	width: 600px;
+	height: 70px;
+}
+.headerstretch {
+	background-image: url(images/header_stretch.gif);
+	background-repeat: repeat-x;
+}
+
+.headerright {
+	background-image: url(images/header_right.gif);
+	width: 1px;
+	height: 70px;
+}
+.headerfit {
+	width: 100%;
+	margin-right: 0px;
+	margin-left: 0px;
+}	
+/*--------------------header page title---------------------*/
+
+.titlebox {
+	background:#959ea4;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+/*--------------------footer---------------------*/
+.footer {
+	color:#000;
+	background:#959ea4;
+	padding:1px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color:#666;
+	border-right-color:#666;
+	border-bottom-color:#666;
+	border-left-color:#666;
+}

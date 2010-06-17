@@ -1,0 +1,137 @@
+body {
+background:#FFFFFF;
+margin:9px;
+font: 10pt/14pt 'Lucida Grande', Verdana, Helvetica, sans-serif;
+/* color:#666666; */
+}
+
+A:link { color:#990000; text-decoration:none; }
+A:hover { color:#6C8EFF; text-decoration:underline; }
+A:active { color:#999999; text-decoration:none; }
+A:active:hover { color:#6C8EFF; text-decoration:underline; }
+A:visited { color:#CC66FF; text-decoration:none; }
+A:visited:hover { color:#6C8EFF; text-decoration:underline; }
+
+#wrap {
+width:800px;
+/* width:100%; */
+margin-left:auto;
+margin-right:auto;
+}
+
+#sidebar {
+float:left;
+text-align:left;
+/* width:150px; */
+width:20%;
+}
+
+#container {
+width:600px;
+/* margin-left:160px; */
+margin-left:21%;
+/* border-left:#CCCCCC 1px solid; */
+}
+
+#content1 {
+width:270px;
+/* width:30%; */
+padding:20px;
+float:left;
+text-align:justify;
+}
+
+#content2 {
+padding:20px;
+text-align:justify;
+}
+
+#content3 {
+width:580px;
+padding:20px;
+float:left;
+text-align:justify;
+}
+
+h3 {
+text-align:right;
+color:#6C8EFF;
+font-size:14pt;
+font-weight:bold;
+}
+
+#header {
+height:100%;
+width:760px;
+clear:both;
+padding:20px;
+border-bottom:#CCCCCC 1px solid;
+/* display:inline; */
+}
+
+#logo {
+display:inline;
+}
+
+#title {
+/* height:120px; */
+/* .. height: 50px; */
+/* .. margin-top:100px; */
+/* .. margin-bottom:50px; */
+/* .. border-bottom:#CCCCCC 1px solid; */
+text-align:right;
+font-size:18pt;
+margin-left:20px;
+/* margin: 0 0 20px 270px; */
+/* float:right; */
+/* letter-spacing:-1px; */
+/* color:#CCCCCC; */
+color: black;
+display:inline;
+}
+
+#footer {
+/* text-align:center; */
+/* .. width:600px; */
+float:clear;
+/* .. width:760px; */
+font-size:10px;
+/* height:30px; */
+margin-top:10px;
+margin-left:160px;
+clear:both;
+border-top:#CCCCCC 1px solid;
+/* text-transform:lowercase; */
+}
+
+#navlist {
+padding: 0 1px 1px;
+margin-left: 0;
+font: bold 12px Verdana, sans-serif;
+background:#F3F3F3;
+width: 13em;
+}
+
+#navlist li {
+list-style: none;
+margin: 0;
+border-top:#CCCCCC 1px solid;
+text-align: right;
+}
+
+#navlist li a {
+display: block;
+padding: 0.25em 0.5em 0.25em 0.75em;
+background: #F3F3F3;
+text-decoration: none;
+}
+
+#navlist li a:link { color: #6C8EFF; }
+#navlist li a:visited { color: #999999; }
+
+#navlist li a:hover {
+border-color: #FE3;
+color: #666666;
+background: #FFFFFF;
+}
+

@@ -1,0 +1,55 @@
+<hr><p><br><b>Job:</b>            Sr. Software Engineer
+<br><b>Description:</b>    Sr. Software Engineer for White Oak Technologies, Inc. (WOTI)
+in Tampa/St. Petersburg
+<br><b>Contact:</b>        James Webb
+<br><b>Phone:</b>          813-368-2005
+<br><b>Email:</b>          jwebb@woti.com
+
+<br><b>Long Description:</b>   White Oak Technologies, Inc. (WOTI) has a new opening
+for an energetic Sr. Software Engineer in Tampa/East St. Petersburg to
+lead the technical component of a team consisting of other engineers and
+intelligence analysts. We will provide relocation assistance for the right
+candidate, so don't let your current location keep you from applying. This
+is a great opportunity to expand your technical and leadership skills in
+a high-impact work environment with frequent customer contact.
+
+<br><b>Requirements:</b>   What you will do
+ Provide high level technical guidance and leadership while still keeping
+ your hands dirty, working directly with the data
+ Take a variety of COTS, Open Source and proprietary technologies and deliver
+ capabilities that bolster the work done by all-source intelligence analysts
+Rapidly structure and clean up textual data using languages like Perl,
+Python or Awk
+ Envision and develop innovative strategies to exploit a variety of
+ structured and unstructured data sets.  This will include strategies for
+ feature extraction/tagging, entity resolution and entity association
+ Act as a liaison for our team and customers in other locations
+
+What you should know
+ Data Management - How to clean/analyze/parse/manage data using scripts,
+ especially in a Linux/UNIX environment
+ Relational Databases - How to fully design and implement a robust and
+ flexible database system
+ Open Source Software  - Where to find it, how to use it, and how to apply
+ it to efficiently deliver impressive capabilities
+ Technical Project Management - How to structure project plans, delegate
+ tasks, engage customers, and motivate staff to excel in a fast paced
+ atmosphere
+
+What you should have
+ TS/SCI clearance
+ Bachelors degree in a technical field of study accompanied with significant
+ software development experience
+ Passion, vision, and the ability to lead with both
+
+Why you want to join our team
+We provide compensation and comprehensive benefits that are commensurate
+with the exceptional quality of candidates sought. Great insurance, tuition
+assistance, and a very generously company-funded 401(k) plan. In addition
+to 10 paid holidays, employees accrue 20 days of Personal Time Off in the
+first year of employment, and 25 days after that you will be surrounded
+by seriously smart people who are focused on solving problems.
+
+
+<br><b>Date: Thu, 17 Jun 2010 13:13:51 -0400
+</b><br>

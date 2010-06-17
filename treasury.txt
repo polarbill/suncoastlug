@@ -1,0 +1,951 @@
+<TABLE RULES="ALL" BORDER="1" CELLPADDING="5" COLS="4">
+<TR>
+<TH>Date</TH>
+<TH>Check #</TH>
+<TH>Description</TH>
+<TH>Amount</TH>
+<TH>Balance</TH>
+</TR>
+<TR>
+<TD>30 Jan 1999</TD>
+<TD></TD>
+<TD>Purchases</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$19.00</TD></TR>
+<TR>
+<TD>10 Feb 1999</TD>
+<TD></TD>
+<TD>Purchases</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$37.00</TD></TR>
+<TR>
+<TD>27 Feb 1999</TD>
+<TD></TD>
+<TD>Purchases</TD>
+<TD ALIGN="RIGHT">
+$5.00</TD><TD ALIGN="RIGHT">$42.00</TD></TR>
+<TR>
+<TD>24 Jul 1999</TD>
+<TD></TD>
+<TD>Donations</TD>
+<TD ALIGN="RIGHT">
+$115.00</TD><TD ALIGN="RIGHT">$157.00</TD></TR>
+<TR>
+<TD>11 Aug 1999</TD>
+<TD></TD>
+<TD>Donations</TD>
+<TD ALIGN="RIGHT">
+$32.00</TD><TD ALIGN="RIGHT">$189.00</TD></TR>
+<TR>
+<TD>11 Aug 1999</TD>
+<TD></TD>
+<TD>Donation<BR>(Curt Johnson)</TD>
+<TD ALIGN="RIGHT">
+$200.00</TD><TD ALIGN="RIGHT">$389.00</TD></TR>
+<TR>
+<TD>18 Aug 1999</TD>
+<TD></TD>
+<TD>Check Order</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-20.43</FONT></TD><TD ALIGN="RIGHT">$368.57</TD></TR>
+<TR>
+<TD>28 Aug 1999</TD>
+<TD></TD>
+<TD>Donations</TD>
+<TD ALIGN="RIGHT">
+$88.00</TD><TD ALIGN="RIGHT">$456.57</TD></TR>
+<TR>
+<TD>7 Sep 1999</TD>
+<TD>101</TD>
+<TD>VOID</TD>
+<TD ALIGN="RIGHT">
+$0.00</TD><TD ALIGN="RIGHT">$456.57</TD></TR>
+<TR>
+<TD>8 Sep 1999</TD>
+<TD></TD>
+<TD>Donations</TD>
+<TD ALIGN="RIGHT">
+$67.00</TD><TD ALIGN="RIGHT">$523.57</TD></TR>
+<TR>
+<TD>9 Sep 1999</TD>
+<TD>102</TD>
+<TD>Network Solutions<BR>(domain registration)</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-70.00</FONT></TD><TD ALIGN="RIGHT">$453.57</TD></TR>
+<TR>
+<TD>15 Sep 1999</TD>
+<TD></TD>
+<TD>Donation<BR>(Mark Saunders)</TD>
+<TD ALIGN="RIGHT">
+$15.00</TD><TD ALIGN="RIGHT">$468.57</TD></TR>
+<TR>
+<TD>27 Sep 1999</TD>
+<TD></TD>
+<TD>Donations</TD>
+<TD ALIGN="RIGHT">
+$75.00</TD><TD ALIGN="RIGHT">$543.57</TD></TR>
+<TR>
+<TD>23 Oct 1999</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$35.00</TD><TD ALIGN="RIGHT">$578.57</TD></TR>
+<TR>
+<TD>10 Nov 1999</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$21.00</TD><TD ALIGN="RIGHT">$599.57</TD></TR>
+<TR>
+<TD>8 Dec 1999</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$47.00</TD><TD ALIGN="RIGHT">$646.57</TD></TR>
+<TR>
+<TD>14 Jan 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$39.00</TD><TD ALIGN="RIGHT">$685.57</TD></TR>
+<TR>
+<TD>19 Jan 2000</TD>
+<TD></TD>
+<TD>Deposit slips</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-4.79</FONT></TD><TD ALIGN="RIGHT">$680.78</TD></TR>
+<TR>
+<TD>22 Jan 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$698.78</TD></TR>
+<TR>
+<TD>9 Feb 2000</TD>
+<TD></TD>
+<TD>Swap meet</TD>
+<TD ALIGN="RIGHT">
+$22.00</TD><TD ALIGN="RIGHT">$720.78</TD></TR>
+<TR>
+<TD>27 Feb 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$67.00</TD><TD ALIGN="RIGHT">$787.78</TD></TR>
+<TR>
+<TD>8 Mar 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$24.00</TD><TD ALIGN="RIGHT">$811.78</TD></TR>
+<TR>
+<TD>12 Apr 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$28.00</TD><TD ALIGN="RIGHT">$839.78</TD></TR>
+<TR>
+<TD>22 Apr 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$858.78</TD></TR>
+<TR>
+<TD>10 May 2000</TD>
+<TD></TD>
+<TD>Tampa & Brandon<br>Raffles</TD>
+<TD ALIGN="RIGHT">
+$43.00</TD><TD ALIGN="RIGHT">$901.78</TD></TR>
+<TR>
+<TD>18 May 2000</TD>
+<TD>103</TD>
+<TD>Paul M. Foster<br>Reimb. for cards/signs</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-79.25</FONT></TD><TD ALIGN="RIGHT">$822.53</TD></TR>
+<TR>
+<TD>3 Jun 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$77.00</TD><TD ALIGN="RIGHT">$899.53</TD></TR>
+<TR>
+<TD>7 Jun 2000</TD>
+<TD>104</TD>
+<TD>SSC<br>Shipping reimb. for raffle items</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-15.00</FONT></TD><TD ALIGN="RIGHT">$884.53</TD></TR>
+<TR>
+<TD>1 Jul 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$39.00</TD><TD ALIGN="RIGHT">$923.53</TD></TR>
+<TR>
+<TD>29 Jul 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$32.00</TD><TD ALIGN="RIGHT">$955.53</TD></TR>
+<TR>
+<TD>26 Aug 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$41.00</TD><TD ALIGN="RIGHT">$996.53</TD></TR>
+<TR>
+<TD>13 Sep 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$78.00</TD><TD ALIGN="RIGHT">$1074.53</TD></TR>
+<TR>
+<TD>27 Sep 2000</TD>
+<TD>105</TD>
+<TD>Bill Preece<br>reimb/CTS electricity</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-138.24</FONT></TD><TD ALIGN="RIGHT">$936.29</TD></TR>
+<TR>
+<TD>30 Sep 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$67.00</TD><TD ALIGN="RIGHT">$1003.29</TD></TR>
+<TR>
+<TD>2 Oct 2000</TD>
+<TD>106</TD>
+<TD>Liberty Printing<br>CTS newsletters</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-28.00</FONT></TD><TD ALIGN="RIGHT">$975.29</TD></TR>
+<TR>
+<TD>2 Oct 2000</TD>
+<TD>107</TD>
+<TD>Quill & Mouse Studios<br>reimb/CTS bus cards</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-117.92</FONT></TD><TD ALIGN="RIGHT">$857.37</TD></TR>
+<TR>
+<TD>29 Oct 2000</TD>
+<TD></TD>
+<TD>Raffles 11 Oct and 28 Oct</TD>
+<TD ALIGN="RIGHT">
+$129.00</TD><TD ALIGN="RIGHT">$986.37</TD></TR>
+<TR>
+<TD>18 Nov 2000</TD>
+<TD></TD>
+<TD>Raffles 8 Nov and 18 Nov</TD>
+<TD ALIGN="RIGHT">
+$91.00</TD><TD ALIGN="RIGHT">$1077.37</TD></TR>
+<TR>
+<TD>13 Dec 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$65.00</TD><TD ALIGN="RIGHT">$1142.37</TD></TR>
+<TR>
+<TD>16 Dec 2000</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$24.00</TD><TD ALIGN="RIGHT">$1166.37</TD></TR>
+<TR>
+<TD>10 Jan 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$55.00</TD><TD ALIGN="RIGHT">$1221.37</TD></TR>
+<TR>
+<TD>27 Jan 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$35.00</TD><TD ALIGN="RIGHT">$1256.37</TD></TR>
+<TR>
+<TD>14 Feb 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$1274.37</TD></TR>
+<TR>
+<TD>24 Feb 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$23.00</TD><TD ALIGN="RIGHT">$1297.37</TD></TR>
+<TR>
+<TD>14 Mar 2001</TD>
+<TD></TD>
+<TD>Raffle<br>$217.00 from Brandon</TD>
+<TD ALIGN="RIGHT">
+$297.00</TD><TD ALIGN="RIGHT">$1594.37</TD></TR>
+<TR>
+<TD>24 Mar 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$37.00</TD><TD ALIGN="RIGHT">$1631.37</TD></TR>
+<TR>
+<TD>18 Apr 2001</TD>
+<TD></TD>
+<TD>Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$1656.37</TD></TR>
+<TR>
+<TD>8 May 2001</TD>
+<TD></TD>
+<TD>shirt money</TD>
+<TD ALIGN="RIGHT">
+$323.00</TD><TD ALIGN="RIGHT">$1979.37</TD></TR>
+<TR>
+<TD>11 May 2001</TD>
+<TD></TD>
+<TD>shirt money $38<br>raffle $57</TD>
+<TD ALIGN="RIGHT">
+$95.00</TD><TD ALIGN="RIGHT">$2074.37</TD></TR>
+<TR>
+<TD>15 May 2001</TD>
+<TD>108</TD>
+<TD>Stitch Logo<br>polo shirts</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-879.80</FONT></TD><TD ALIGN="RIGHT">$1194.57</TD></TR>
+<TR>
+<TD>22 May 2001</TD>
+<TD>109</TD>
+<TD>VOID</TD>
+<TD ALIGN="RIGHT">
+$0.00</TD><TD ALIGN="RIGHT">$1194.57</TD></TR>
+<TR>
+<TD>22 May 2001</TD>
+<TD>110</TD>
+<TD>Harborview Center<br>CTS elec/phone</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-240.75</FONT></TD><TD ALIGN="RIGHT">$953.82</TD></TR>
+<TR>
+<TD>29 May 2001</TD>
+<TD>111</TD>
+<TD>Jon Hall<br>plane tkt</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-188.00</FONT></TD><TD ALIGN="RIGHT">$765.82</TD></TR>
+<TR>
+<TD>30 May 2001</TD>
+<TD>112</TD>
+<TD>Jon Hall<br>hotel</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-150.00</FONT></TD><TD ALIGN="RIGHT">$615.82</TD></TR>
+<TR>
+<TD>30 May 2001</TD>
+<TD></TD>
+<TD>Shirt money $250<br>Brandon Raffles $52</TD>
+<TD ALIGN="RIGHT">
+$302.00</TD><TD ALIGN="RIGHT">$917.82</TD></TR>
+<TR>
+<TD>4 Jun 2001</TD>
+<TD></TD>
+<TD>Shirt money</TD>
+<TD ALIGN="RIGHT">
+$45.00</TD><TD ALIGN="RIGHT">$962.82</TD></TR>
+<TR>
+<TD>18 Jun 2001</TD>
+<TD></TD>
+<TD>Raffle $52<br>Shirts $19</TD>
+<TD ALIGN="RIGHT">
+$71.00</TD><TD ALIGN="RIGHT">$1033.82</TD></TR>
+<TR>
+<TD>25 Jun 2001</TD>
+<TD></TD>
+<TD>Raffle $63<br>Shirts $38</TD>
+<TD ALIGN="RIGHT">
+$101.00</TD><TD ALIGN="RIGHT">$1134.82</TD></TR>
+<TR>
+<TD>5 Jul 2001</TD>
+<TD>113</TD>
+<TD>Network Solutions<br>domain renewal</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-70.00</FONT></TD><TD ALIGN="RIGHT">$1064.82</TD></TR>
+<TR>
+<TD>9 Jul 2001</TD>
+<TD></TD>
+<TD>Shirt money</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$1083.82</TD></TR>
+<TR>
+<TD>12 Jul 2001</TD>
+<TD></TD>
+<TD>Shirts $95<br>Brandon Raffles $65</TD>
+<TD ALIGN="RIGHT">
+$160.00</TD><TD ALIGN="RIGHT">$1243.82</TD></TR>
+<TR>
+<TD>30 Jul 2001</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$36.00</TD><TD ALIGN="RIGHT">$1279.82</TD></TR>
+<TR>
+<TD>8 Aug 2001</TD>
+<TD></TD>
+<TD>Tampa raffle</TD>
+<TD ALIGN="RIGHT">
+$46.00</TD><TD ALIGN="RIGHT">$1325.82</TD></TR>
+<TR>
+<TD>25 Aug 2001</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$35.00</TD><TD ALIGN="RIGHT">$1360.82</TD></TR>
+<TR>
+<TD>26 Aug 2001</TD>
+<TD>114</TD>
+<TD>Bill Preece<br>Linux 10 expenses</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-165.83</FONT></TD><TD ALIGN="RIGHT">$1194.99</TD></TR>
+<TR>
+<TD>10 Sep 2001</TD>
+<TD></TD>
+<TD>Donation</TD>
+<TD ALIGN="RIGHT">
+$1.00</TD><TD ALIGN="RIGHT">$1195.99</TD></TR>
+<TR>
+<TD>22 Sep 2001</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$26.00</TD><TD ALIGN="RIGHT">$1221.99</TD></TR>
+<TR>
+<TD>26 Sep 2001</TD>
+<TD></TD>
+<TD>Shirt money</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$1240.99</TD></TR>
+<TR>
+<TD>11 Oct 2001</TD>
+<TD></TD>
+<TD>Shirt money $19<br>Raffle $24</TD>
+<TD ALIGN="RIGHT">
+$43.00</TD><TD ALIGN="RIGHT">$1283.99</TD></TR>
+<TR>
+<TD>12 Oct 2001</TD>
+<TD>115</TD>
+<TD>City of Tampa<br>CTS Show</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-291.70</FONT></TD><TD ALIGN="RIGHT">$992.29</TD></TR>
+<TR>
+<TD>14 Nov 2001</TD>
+<TD></TD>
+<TD>Brandon raffles $23<br>Tampa raffle $65</TD>
+<TD ALIGN="RIGHT">
+$88.00</TD><TD ALIGN="RIGHT">$1080.29</TD></TR>
+<TR>
+<TD>11 Dec 2001</TD>
+<TD>116</TD>
+<TD>VOID</TD>
+<TD ALIGN="RIGHT">
+$0.00</TD><TD ALIGN="RIGHT">$1080.29</TD></TR>
+<TR>
+<TD>11 Dec 2001</TD>
+<TD>117</TD>
+<TD>Quill & Mouse Studios, Inc.<br>Add'l CTS Fees</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-87.62</FONT></TD><TD ALIGN="RIGHT">$992.67</TD></TR>
+<TR>
+<TD>12 Dec 2001</TD>
+<TD></TD>
+<TD>Dunedin Raffle $23<br>Tampa Raffle $40</TD>
+<TD ALIGN="RIGHT">
+$63.00</TD><TD ALIGN="RIGHT">$1055.67</TD></TR>
+<TR>
+<TD>22 Dec 2001</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$17.00</TD><TD ALIGN="RIGHT">$1072.67</TD></TR>
+<TR>
+<TD>9 Jan 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$37.00</TD><TD ALIGN="RIGHT">$1109.67</TD></TR>
+<TR>
+<TD>26 Jan 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$30.00</TD><TD ALIGN="RIGHT">$1139.67</TD></TR>
+<TR>
+<TD>13 Feb 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$23.00</TD><TD ALIGN="RIGHT">$1162.67</TD></TR>
+<TR>
+<TD>23 Feb 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$36.00</TD><TD ALIGN="RIGHT">$1198.67</TD></TR>
+<TR>
+<TD>13 Mar 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$23.00</TD><TD ALIGN="RIGHT">$1221.67</TD></TR>
+<TR>
+<TD>23 Mar 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$21.00</TD><TD ALIGN="RIGHT">$1242.67</TD></TR>
+<TR>
+<TD>29 Mar 2002</TD>
+<TD></TD>
+<TD>Activity charge</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-18.00</FONT></TD><TD ALIGN="RIGHT">$1224.67</TD></TR>
+<TR>
+<TD>4 Apr 2002</TD>
+<TD></TD>
+<TD>Reverse activity charge</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$1242.67</TD></TR>
+<TR>
+<TD>10 Apr 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$1267.67</TD></TR>
+<TR>
+<TD>27 Apr 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$21.00</TD><TD ALIGN="RIGHT">$1288.67</TD></TR>
+<TR>
+<TD>8 May 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$30.00</TD><TD ALIGN="RIGHT">$1318.67</TD></TR>
+<TR>
+<TD>12 Jun 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$20.00</TD><TD ALIGN="RIGHT">$1338.67</TD></TR>
+<TR>
+<TD>22 Jun 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$16.00</TD><TD ALIGN="RIGHT">$1354.67</TD></TR>
+<TR>
+<TD>10 Jul 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$34.00</TD><TD ALIGN="RIGHT">$1388.67</TD></TR>
+<TR>
+<TD>27 Jul 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$49.00</TD><TD ALIGN="RIGHT">$1437.67</TD></TR>
+<TR>
+<TD>14 Aug 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$38.00</TD><TD ALIGN="RIGHT">$1475.67</TD></TR>
+<TR>
+<TD>24 Aug 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$1494.67</TD></TR>
+<TR>
+<TD>11 Sep 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle $56<br>Brandon Raffles $12</TD>
+<TD ALIGN="RIGHT">
+$68.00</TD><TD ALIGN="RIGHT">$1562.67</TD></TR>
+<TR>
+<TD>21 Sep 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$1581.67</TD></TR>
+<TR>
+<TD>9 Oct 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$50.00</TD><TD ALIGN="RIGHT">$1631.67</TD></TR>
+<TR>
+<TD>26 Oct 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$31.00</TD><TD ALIGN="RIGHT">$1662.67</TD></TR>
+<TR>
+<TD>13 Nov 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$48.00</TD><TD ALIGN="RIGHT">$1710.67</TD></TR>
+<TR>
+<TD>23 Nov 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$50.00</TD><TD ALIGN="RIGHT">$1760.67</TD></TR>
+<TR>
+<TD>11 Dec 2002</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$24.00</TD><TD ALIGN="RIGHT">$1784.67</TD></TR>
+<TR>
+<TD>28 Dec 2002</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$30.00</TD><TD ALIGN="RIGHT">$1814.67</TD></TR>
+<TR>
+<TD>8 Jan 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$32.00</TD><TD ALIGN="RIGHT">$1846.67</TD></TR>
+<TR>
+<TD>25 Jan 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle $41<br>SLUG Shirt $19</TD>
+<TD ALIGN="RIGHT">
+$60.00</TD><TD ALIGN="RIGHT">$1906.67</TD></TR>
+<TR>
+<TD>22 Feb 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$64.00</TD><TD ALIGN="RIGHT">$1970.67</TD></TR>
+<TR>
+<TD>12 Mar 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle $41<br>Brandon Raffles $125</TD>
+<TD ALIGN="RIGHT">
+$166.00</TD><TD ALIGN="RIGHT">$2136.67</TD></TR>
+<TR>
+<TD>22 Mar 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$9.00</TD><TD ALIGN="RIGHT">$2145.67</TD></TR>
+<TR>
+<TD>9 Apr 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$24.00</TD><TD ALIGN="RIGHT">$2169.67</TD></TR>
+<TR>
+<TD>26 Apr 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$10.00</TD><TD ALIGN="RIGHT">$2179.67</TD></TR>
+<TR>
+<TD>14 May 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$35.00</TD><TD ALIGN="RIGHT">$2214.67</TD></TR>
+<TR>
+<TD>24 May 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$12.00</TD><TD ALIGN="RIGHT">$2226.67</TD></TR>
+<TR>
+<TD>30 May 2003</TD>
+<TD></TD>
+<TD>activity charge</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-18.00</FONT></TD><TD ALIGN="RIGHT">$2208.67</TD></TR>
+<TR>
+<TD>10 Jun 2003</TD>
+<TD></TD>
+<TD>reverse act chg</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$2226.67</TD></TR>
+<TR>
+<TD>11 Jun 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$2251.67</TD></TR>
+<TR>
+<TD>28 Jun 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$17.00</TD><TD ALIGN="RIGHT">$2268.67</TD></TR>
+<TR>
+<TD>9 Jul 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$29.00</TD><TD ALIGN="RIGHT">$2297.67</TD></TR>
+<TR>
+<TD>21 Jul 2003</TD>
+<TD>118</TD>
+<TD>Paul M. Foster<br>reimb/domain renewal</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-35.00</FONT></TD><TD ALIGN="RIGHT">$2262.67</TD></TR>
+<TR>
+<TD>13 Aug 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$63.00</TD><TD ALIGN="RIGHT">$2325.67</TD></TR>
+<TR>
+<TD>23 Aug 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$21.00</TD><TD ALIGN="RIGHT">$2346.67</TD></TR>
+<TR>
+<TD>10 Sep 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$34.00</TD><TD ALIGN="RIGHT">$2380.67</TD></TR>
+<TR>
+<TD>27 Sep 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$2405.67</TD></TR>
+<TR>
+<TD>8 Oct 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$23.00</TD><TD ALIGN="RIGHT">$2428.67</TD></TR>
+<TR>
+<TD>25 Oct 2003</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$9.00</TD><TD ALIGN="RIGHT">$2437.67</TD></TR>
+<TR>
+<TD>12 Nov 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$20.00</TD><TD ALIGN="RIGHT">$2457.67</TD></TR>
+<TR>
+<TD>19 Nov 2003</TD>
+<TD>119</TD>
+<TD>City of Tampa<br>Tampa Conv Ctr</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-336.58</FONT></TD><TD ALIGN="RIGHT">$2121.09</TD></TR>
+<TR>
+<TD>1 Dec 2003</TD>
+<TD>120</TD>
+<TD>Nextwave Computers<br>CDs for show</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-96.11</FONT></TD><TD ALIGN="RIGHT">$2024.98</TD></TR>
+<TR>
+<TD>10 Dec 2003</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$28.00</TD><TD ALIGN="RIGHT">$2052.98</TD></TR>
+<TR>
+<TD>16 Dec 2003</TD>
+<TD>121</TD>
+<TD>Jon Hall<br>airfare</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-256.00</FONT></TD><TD ALIGN="RIGHT">$1796.98</TD></TR>
+<TR>
+<TD>16 Dec 2003</TD>
+<TD>122</TD>
+<TD>Quill &amp; Mouse Studios<br>4000 SLUG cards</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-262.73</FONT></TD><TD ALIGN="RIGHT">$1534.25</TD></TR>
+<TR>
+<TD>14 Jan 2004</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$45.00</TD><TD ALIGN="RIGHT">$1579.25</TD></TR>
+<TR>
+<TD>31 Jan 2004</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$5.00</TD><TD ALIGN="RIGHT">$1584.25</TD></TR>
+<TR>
+<TD>11 Feb 2004</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$32.00</TD><TD ALIGN="RIGHT">$1616.25</TD></TR>
+<TR>
+<TD>10 Apr 2004</TD>
+<TD></TD>
+<TD>Dunedin Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$1641.25</TD></TR>
+<TR>
+<TD>12 May 2004</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$1666.25</TD></TR>
+<TR>
+<TD>12 Jun 2004</TD>
+<TD></TD>
+<TD>Dunedin donations</TD>
+<TD ALIGN="RIGHT">
+$4.00</TD><TD ALIGN="RIGHT">$1670.25</TD></TR>
+<TR>
+<TD>14 Jul 2004</TD>
+<TD></TD>
+<TD>Tampa Raffle</TD>
+<TD ALIGN="RIGHT">
+$31.00</TD><TD ALIGN="RIGHT">$1701.25</TD></TR>
+<TR>
+<TD>21 Jul 2004</TD>
+<TD>123</TD>
+<TD>Quill & Mouse Studios, Inc.<br>domain renewal</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-35.00</FONT></TD><TD ALIGN="RIGHT">$1666.25</TD></TR>
+<TR>
+<TD>26 Jul 2004</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$13.00</TD><TD ALIGN="RIGHT">$1679.25</TD></TR>
+<TR>
+<TD>28 Aug 2004</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$18.00</TD><TD ALIGN="RIGHT">$1697.25</TD></TR>
+<TR>
+<TD>23 Oct 2004</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$6.00</TD><TD ALIGN="RIGHT">$1703.25</TD></TR>
+<TR>
+<TD>01 Feb 2005</TD>
+<TD></TD>
+<TD>Tampa raffles</TD>
+<TD ALIGN="RIGHT">
+$57.00</TD><TD ALIGN="RIGHT">$1760.25</TD></TR>
+<TR>
+<TD>14 Feb 2005</TD>
+<TD></TD>
+<TD>Tampa raffles</TD>
+<TD ALIGN="RIGHT">
+$15.00</TD><TD ALIGN="RIGHT">$1775.25</TD></TR>
+<TR>
+<TD>01 Mar 2005</TD>
+<TD></TD>
+<TD>St Pete raffles</TD>
+<TD ALIGN="RIGHT">
+$35.00</TD><TD ALIGN="RIGHT">$1810.25</TD></TR>
+<TR>
+<TD>14 Mar 2005</TD>
+<TD></TD>
+<TD>Tampa raffles</TD>
+<TD ALIGN="RIGHT">
+$6.00</TD><TD ALIGN="RIGHT">$1816.25</TD></TR>
+<TR>
+<TD>31 May 2005</TD>
+<TD></TD>
+<TD>Dunedin raffles</TD>
+<TD ALIGN="RIGHT">
+$17.00</TD><TD ALIGN="RIGHT">$1833.25</TD></TR>
+<TR>
+<TD>25 Jun 2005</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$15.02</TD><TD ALIGN="RIGHT">$1848.27</TD></TR>
+<TR>
+<TD>25 Jul 2005</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$19.00</TD><TD ALIGN="RIGHT">$1867.27</TD></TR>
+<TR>
+<TD>25 Jul 2005</TD>
+<TD>124</TD>
+<TD>Quill &amp; Mouse Studios<br>domain renewal</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-35.00</FONT></TD><TD ALIGN="RIGHT">$1832.27</TD></TR>
+<TR>
+<TD>26 Jul 2005</TD>
+<TD></TD>
+<TD>Amsouth Bank<br>check order</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-6.00</FONT></TD><TD ALIGN="RIGHT">$1826.27</TD></TR>
+<TR>
+<TD>29 Aug 2005</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$9.00</TD><TD ALIGN="RIGHT">$1835.27</TD></TR>
+<TR>
+<TD>08 Oct 2005</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$10.00</TD><TD ALIGN="RIGHT">$1845.27</TD></TR>
+<TR>
+<TD>14 Oct 2005</TD>
+<TD>1001</TD>
+<TD>Jonathon Conte<br>SFD Expenses</TD>
+<TD ALIGN="RIGHT">
+<FONT COLOR="RED">$-69.43</FONT></TD><TD ALIGN="RIGHT">$1775.84</TD></TR>
+<TR>
+<TD>14 Nov 2005</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$17.00</TD><TD ALIGN="RIGHT">$1792.84</TD></TR>
+<TR>
+<TD>28 Jan 2006</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$12.00</TD><TD ALIGN="RIGHT">$1804.84</TD></TR>
+<TR>
+<TD>24 Mar 2006</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$5.00</TD><TD ALIGN="RIGHT">$1809.84</TD></TR>
+<TR>
+<TD>07 Sep 2006</TD>
+<TD></TD>
+<TD>Tampa raffles</TD>
+<TD ALIGN="RIGHT">
+$137.00</TD><TD ALIGN="RIGHT">$1946.84</TD></TR>
+<TR>
+<TD>28 Apr 2007</TD>
+<TD></TD>
+<TD>Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$10.00</TD><TD ALIGN="RIGHT">$1956.84</TD></TR>
+<TR>
+<TD>31 Dec 2007</TD>
+<TD></TD>
+<TD>Final Dunedin raffle</TD>
+<TD ALIGN="RIGHT">
+$25.00</TD><TD ALIGN="RIGHT">$1981.84</TD></TR>
+<TR>
+<TD>15 May 2008</TD>
+<TD></TD>
+<TD>Tampa raffle</TD>
+<TD ALIGN="RIGHT">
+$29.00</TD><TD ALIGN="RIGHT">$2010.84</TD></TR>
+</TABLE>

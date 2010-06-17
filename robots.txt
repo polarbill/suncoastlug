@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /passwd/
+Disallow: /archive/
+Disallow: /cgi-bin/passwd/
+Disallow: /~COLUG/
+Disallow: /linbot/
+
