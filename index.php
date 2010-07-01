@@ -100,11 +100,11 @@ to find a Linux assistant, or to sign up to be one.
 <p>
 <CENTER>
 <h2>
-<a name="irc">Unofficial SLUG IRC Channels</a>
+<a name="irc">SLUG IRC Channels</a>
 </h2>
 </CENTER>
 <p>
-Some members are maintaining <em>unofficial</em> IRC channels. They are:<br>
+We have two IRC channels. They are:<br>
 <em>irc.perl.org #pup<br>
 irc.shadowworld.net #sslug<br>
 </em>
