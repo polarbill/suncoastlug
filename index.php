@@ -1,8 +1,7 @@
 <?php
 require_once('template.php');
 page_header('SLUG Home Page');
-
-echo <<<END
+?>
 <div id="content1">
 
 <CENTER>
@@ -110,8 +109,8 @@ irc.shadowworld.net #sslug<br>
 </em>
 
 </div>
-END;
 
+<?
 page_footer();
 ?>
 
