@@ -1,55 +1,48 @@
-<hr><p><br><b>Job:</b>            Sr. Software Engineer
-<br><b>Description:</b>    Sr. Software Engineer for White Oak Technologies, Inc. (WOTI)
-in Tampa/St. Petersburg
-<br><b>Contact:</b>        James Webb
-<br><b>Phone:</b>          813-368-2005
-<br><b>Email:</b>          jwebb@woti.com
+<hr><p><br><b>Job:</b>     Network/Systems Administrator
+<br><b>Description:</b>    Oversee all aspects of IT including implementation, development, maintenance, training, and communication for all internal systems.
+In Pinellas county
+<br><b>Contact:</b>        Metro Wellness &amp; Community Centers
+<br><b>Phone:</b>          N/A
+<br><b>Email:</b>          info@metrotampabay.org
 
-<br><b>Long Description:</b>   White Oak Technologies, Inc. (WOTI) has a new opening
-for an energetic Sr. Software Engineer in Tampa/East St. Petersburg to
-lead the technical component of a team consisting of other engineers and
-intelligence analysts. We will provide relocation assistance for the right
-candidate, so don't let your current location keep you from applying. This
-is a great opportunity to expand your technical and leadership skills in
-a high-impact work environment with frequent customer contact.
+<br><b>Long Description:</b>   
+<ul>
+    <li> Responsible for all aspects of day to day network administration.</li>
+    <li> Builds and maintains servers, implements LAN and WAN hardware and software, monitors capacity and performance utilization, and other network related maintenance/improvements.</li>
+    <li> Ensures daily backup and disaster recovery system.</li>
+    <li> Ensures complete and accurate backup and storage of the computer system data programs.</li>
+    <li> Oversees the administration and maintenance of the company's infrastructure, computer stations and software.</li>
+    <li> Provides technical support for the phone system for the entire organization.</li>
+    <li> Works directly with users to troubleshoot, document and resolve network related issues.</li>
+    <li> Establish and maintain network users, user environments and user related security rights</li>
+    <li> Ensures the security of the network at all times and assigns appropriate access for staff.</li>
+    <li> Manages the purchasing of all software, hardware and other IT supplies.</li>
+    <li> Maintains complete and accurate system documentation of all software and hardware related issues.</li>
+    <li> Responsible for testing and debugging of operating system patches or upgrades to current system.</li>
+    <li> Serves as main point of contact on all IT-related matters and is responsible for overall IT in the organization.</li>
+    <li> Trains staff through both formal and informal training programs.</li>
+    <li> Responds/acts on upper-management direction.</li>
+    <li> Identifies and provides standards for gathering information for use in trend analysis and reports information to company management.</li>
+    <li> Addresses software and hardware problems in a timely manner to ensure minimal down time.</li>
+    <li> Monitors and maintains cost effective hardware and software support.</li>
+    <li> Maintains Website and updates in a timely manner.</li>
+    <li> Maintains complete and accurate system documentation.</li>
+</ul>
 
-<br><b>Requirements:</b>   What you will do
- Provide high level technical guidance and leadership while still keeping
- your hands dirty, working directly with the data
- Take a variety of COTS, Open Source and proprietary technologies and deliver
- capabilities that bolster the work done by all-source intelligence analysts
-Rapidly structure and clean up textual data using languages like Perl,
-Python or Awk
- Envision and develop innovative strategies to exploit a variety of
- structured and unstructured data sets.  This will include strategies for
- feature extraction/tagging, entity resolution and entity association
- Act as a liaison for our team and customers in other locations
+<br><b>Requirements:</b>
+<ul>
+    <li>4 year college degree in Computer Science or related field.</li>
+    <li>Minimum 4 years experience in a networked computer environment, performing in a lead IT role.   </li>
+    <li>Valid driver’s license and automobile insurance, as per policy.</li>
+    <li>Ability to travel to off-site locations.</li>
+    <li>Proficient in computer operating systems: DOS, Microsoft Server 2008, 2003/XP and Microsoft Office 2003.</li>
+    <li>Proficient in email server administration.  Prior experience with Domino mail server preferred.</li>
+    <li>Website administration and/or design experience preferred.</li>
+    <li>Database administration experience strongly preferred.</li>
+    <li>Analytical, organized and able to effectively manage many tasks simultaneously.</li>
+    <li>Well developed communication and interpersonal skills.</li>
+    <li>Ability to work with minimum supervision exercising a high degree of discretion and independent judgment.</li>
+</ul>
 
-What you should know
- Data Management - How to clean/analyze/parse/manage data using scripts,
- especially in a Linux/UNIX environment
- Relational Databases - How to fully design and implement a robust and
- flexible database system
- Open Source Software  - Where to find it, how to use it, and how to apply
- it to efficiently deliver impressive capabilities
- Technical Project Management - How to structure project plans, delegate
- tasks, engage customers, and motivate staff to excel in a fast paced
- atmosphere
-
-What you should have
- TS/SCI clearance
- Bachelors degree in a technical field of study accompanied with significant
- software development experience
- Passion, vision, and the ability to lead with both
-
-Why you want to join our team
-We provide compensation and comprehensive benefits that are commensurate
-with the exceptional quality of candidates sought. Great insurance, tuition
-assistance, and a very generously company-funded 401(k) plan. In addition
-to 10 paid holidays, employees accrue 20 days of Personal Time Off in the
-first year of employment, and 25 days after that you will be surrounded
-by seriously smart people who are focused on solving problems.
-
-
-<br><b>Date: Thu, 17 Jun 2010 13:13:51 -0400
+<br><b>Date: Sat Oct  9 17:21:12 EDT 2010
 </b><br>
