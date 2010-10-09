@@ -3,9 +3,12 @@
 In Pinellas county
 <br><b>Contact:</b>        Metro Wellness &amp; Community Centers
 <br><b>Phone:</b>          N/A
-<br><b>Email:</b>          info@metrotampabay.org
+<br><b>Email:</b>          <a href="mailto:info@metrotampabay.org">info@metrotampabay.org</a>
 
-<br><b>Long Description:</b>   
+<br><b>Long Description:</b>
+<br>
+Resumes should be sent to info@metrotampabay.org with a subject line of "IT Position review"
+
 <ul>
     <li> Responsible for all aspects of day to day network administration.</li>
     <li> Builds and maintains servers, implements LAN and WAN hardware and software, monitors capacity and performance utilization, and other network related maintenance/improvements.</li>
