@@ -15,14 +15,8 @@ page_header('Calendar');
 
 ?>
 
-<p>
-<center>
-<b>Note: Dates and times subject to change!</b><br>
-<b>Click below to see a particular month.</b>
-</center>
-<p>
+<iframe src="http://www.google.com/calendar/hosted/unix-people.org/embed?src=unix-people.org_0iqmvliod352fgssirjgsk66po%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <?php
-echo "<center>$calstring</center>";
 page_footer();
 
