@@ -27,8 +27,10 @@ donations.
 <HR>
 <P>
 <hr>
-END;
+
 <iframe width=780 height=100% frameborder=0 src=https://spreadsheets.google.com/a/unix-people.org/ccc?key=0AhnN6APggaW2dG1iNTY0bnVheVUxODlLS3VDRTBicFE&output=html&chrome=false&widget=true&hl=en></iframe>
+
+END;
 print "</div>\n";
 page_footer();
 ?>
