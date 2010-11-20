@@ -291,6 +291,18 @@ coordinator, Sarasota meetings are dropped.
 <center><h3>6 October 2007</h3></center>
 Due to lack of attendance, New Port Richey meetings are dropped.
 <p>
+<center><h3>18 April 2008</h3></center>
+Bill Davison volunteers to lead the Tampa meetings, currently held at
+Hillsborough Community College, taking over for Mario Lombardo.
+<p>
+<center><h3>June 2010</h3></center>
+Paul Foster resigned as president, and Dylan Hardison was elected the new president through the SLUG mailing list.
+<br>
+At the same time, PUP (Pinellas Unix People, unix-people.org) joined with SLUG.
+<p>
+<center><h3>September 2010</h3></center>
+Bill Davison volunteers for the new Treasurer of SLUG
+<p>
 </div>
 END;
 page_footer();
